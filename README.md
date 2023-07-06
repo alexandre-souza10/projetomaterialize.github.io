@@ -9,14 +9,14 @@
 <br></br>
 
 ## Project Description:
-- Nesse Projeto foi desenvolvido uma pagina de site, um projeto Front-End, utilizando HTML, CSS, Java Script, e o Framework Materialize.
-Na pagina encotramos um Design mais avançado, utilizando as ferramentas do Materialize. Encontramos tambem uma modal inicialmente para colocarmos o E-mail,
-ao descermos a tela encontramos o autor e mensagem do dia , e tambem imagens e descrições dos melhores lugares para se conhecer em uma viagem, e para saber mais sobre
-as viagens , preços, e todo o processo , temos um entre em contato com a equipe.
+- In this Project, a website page was developed, a Front-End project, using HTML, CSS, Java Script, and the Materialize Framework.
+On the page we find a more advanced Design, using the Materialize tools. We also found a modal initially to put the E-mail,
+when we go down the screen we find the author and message of the day, as well as images and descriptions of the best places to visit on a trip, and to learn more about
+the trips, prices, and the whole process, we have a contact with the team.
 
-- O Projeto tem a funcionalidade de mostrar uma pagina de Agencia de Viagens e lugares para se visitar , e toda uma equipe para auxiliar , em um ambiente Front-End.
+- The Project has the functionality of showing a Travel Agency page and places to visit, and a whole team to help, in a Front-End environment.
 
-- A seguir temos um pequeno vídeo instrutivo, onde mostramos um exemplo de como funciona a página Places and Travel .
+- Below is a short instructional video where we show an example of how the Places and Travel page works.
 
 <br></br>
 
