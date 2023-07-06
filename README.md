@@ -9,7 +9,14 @@
 <br></br>
 
 ## Project Description:
+- Nesse Projeto foi desenvolvido uma pagina de site, um projeto Front-End, utilizando HTML, CSS, Java Script, e o Framework Materialize.
+Na pagina encotramos um Design mais avançado, utilizando as ferramentas do Materialize. Encontramos tambem uma modal inicialmente para colocarmos o E-mail,
+ao descermos a tela encontramos o autor e mensagem do dia , e tambem imagens e descrições dos melhores lugares para se conhecer em uma viagem, e para saber mais sobre
+as viagens , preços, e todo o processo , temos um entre em contato com a equipe.
 
+- O Projeto tem a funcionalidade de mostrar uma pagina de Agencia de Viagens e lugares para se visitar , e toda uma equipe para auxiliar , em um ambiente Front-End.
+
+- A seguir temos um pequeno vídeo instrutivo, onde mostramos um exemplo de como funciona a página Places and Travel .
 
 <br></br>
 
