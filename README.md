@@ -35,5 +35,5 @@ https://github.com/alexandre-souza10/projetomaterialize.github.io/assets/7419652
 
 <br></br>
 
-#### Author: 
+#### Author:
 **Alexandre Souza**
